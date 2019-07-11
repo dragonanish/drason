@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+Header set X-Content-Type-Options nosniff
+Header set X-XSS-Protection "1; mode=block"
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L]
+</IfModule>
+Header always append X-Frame-Options DENY
+Header always set Strict-Transport-Security "max-age=10886400
+Header always set Feature-Policy "microphone 'none'; payment 'none'; sync-xhr 'self' https://server247.info/sunrise-bank"
+Header always set Referrer-Policy strict-origin
+Header always set Content-Security-Policy "default-src 'self' 'unsafe-inline' 'unsafe-eval' *.googleapis.com *.gstatic.com *.youtube.com *.cloudflare.com *.jquery.com *.github.io data:;"
