@@ -4,60 +4,53 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="cwt__footer__title cwt__footer__title--light">
-                            Check Out Preselected Demos
+                            Check Out PROJECT DRASON
                         </div>
                         <div class="row">
                             <div class="col-lg-6">
-                                <ul class="list-unstyled">
+                                <!-- <ul class="list-unstyled">
                                     <li><a href="javascript: void(0);" class="cwt__footer__link">Vertical Menu (Default)</a></li>
                                     <li><a href="javascript: void(0);" class="cwt__footer__link">Ecommerce Version</a></li>
                                     <li><a href="javascript: void(0);" class="cwt__footer__link">Horizontal Menu + Boxed Container</a></li>
                                     <li><a href="javascript: void(0);" class="cwt__footer__link">Iconbar Vertical Menu</a></li>
                                     <li><a href="javascript: void(0);" class="cwt__footer__link">Inverse Color Scheme</a></li>
-                                </ul>
+                                </ul> -->
                             </div>
                             <div class="col-lg-6">
-                                <ul class="list-unstyled">
+                             <!--    <ul class="list-unstyled">
                                     <li><a href="javascript: void(0);" class="cwt__footer__link">Super Clean Mode + Menu Shadow</a></li>
                                     <li><a href="javascript: void(0);" class="cwt__footer__link">Horizontal Menu</a></li>
                                     <li><a href="javascript: void(0);" class="cwt__footer__link">Compact Horizontal Menu</a></li>
                                     <li><a href="javascript: void(0);" class="cwt__footer__link">Vertical Menu + Boxed</a></li>
                                     <li><a href="javascript: void(0);" class="cwt__footer__link">Horizontal Menu + Boxed</a></li>
-                                </ul>
+                                </ul> -->
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="cwt__footer__title">
-                            Clean UI Admin Template
+                           DRASON
                         </div>
                         <div class="cwt__footer__description">
-                            <p>Clean UI – a modern professional admin template, based on Bootstrap 4
-                                framework. Clean UI is a powerful and super flexible tool, which suits best for any
-                                kind of web application: Web Applications; CRM; CMS; Admin Panels; Dashboards; etc.
-                                Clean UI is fully responsive, which means that it looks perfect on mobiles and
-                                tablets</p>
+                            <p>DRASON- this is the website which has the features of donatation
+                            ,recycle,advertise,sell old and new products</p>
 
-                            <p>Clean UI is fully based on SASS pre-processor, includes 50+ commented SASS files.
-                                Each file corresponds to a single component, layout, page, plugin or extension –
-                                so you can easily find necessary piece of code and edit it for your needs.
-                                The package includes both normal and minified CSS files, compiled from SASS</p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="cwt__footer__bottom">
                 <nav class="nav nav-inline m-b-2 pull-md-right">
-                    <a href="javascript: void(0);" class="cwt__footer__link m-r-1">Teaser</a>
-                    <a href="javascript: void(0);" class="cwt__footer__link m-r-1">Portfolio</a>
-                    <a href="javascript: void(0);" class="cwt__footer__link m-r-1">Features</a>
-                    <a href="javascript: void(0);" class="cwt__footer__link m-r-1">About Us</a>
+                    <a href="javascript: void(0);" class="cwt__footer__link m-r-1">OldProduct</a>
+                    <a href="javascript: void(0);" class="cwt__footer__link m-r-1">NewProduct</a>
+                    <a href="javascript: void(0);" class="cwt__footer__link m-r-1">Recycle</a>
+                    <a href="javascript: void(0);" class="cwt__footer__link m-r-1">Donation</a>
                     <a href="javascript: void(0);" class="cwt__footer__link">Contact Us</a>
                 </nav>
                 <div class="cwt__footer__company">
-                    <img class="cwt__footer__company-logo" src="assets/welcome/common/img/mediatec.png" title="Mediatec Software" />
+                    <img style="width: 50px  " class="cwt__footer__company-logo" src="assets/welcome/common/img/logo.jpg" title="drason" />
                         <span>
-                            ©2017 <a href="http://mediatec.org/" class="cwt__footer__link" target="_blank">Mediatec Software</a>
+                            ©2017 <a href="" class="cwt__footer__link" target="_blank">Online Website DRASON</a>
                             <br />
                             All rights reserved
                         </span>

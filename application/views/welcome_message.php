@@ -36,73 +36,13 @@
                 </div>
             </div>
 
-            <!-- Showcase Block -->
-            <div class="cwt__block cwt__showcase cwt__utils__p-t-100">
-                <div class="cwt__cube">
-                    <div class="cwt__cube__inner" id="rotating-cube"><!-- --></div>
-                </div>
-                <h1 class="cwt__showcase__heading">
-                    <span class="cwt__showcase__heading__text" id="showcase-type"></span>
-                </h1>
-                <p class="cwt__showcase__description">
-                    Lorem Ipsum is <strong>simply dummy text</strong> of the printing and <strong>typesetting industry</strong>. Lorem Ipsum has been the
-                    industry's <strong>standard dummy</strong> text ever since the 1500s, when an <strong>unknown printer</strong> took a galley of type
-                    and <strong>scrambled it</strong> to make a type specimen book.
-                </p>
-                <div class="cwt__showcase__devices">
-                    <div class="cwt__showcase__laptop">
-                        <div class="cwt__showcase__laptop__shadow"><!-- --></div>
-                        <div class="cwt__showcase__laptop__bg">
-                            <div class="cwt__showcase__box">
-                                <img src="assets/welcome/common/img/laptop.gif" class="cwt__showcase__box__gif" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="cwt__showcase__mobile hidden-sm-down">
-                        <div class="cwt__showcase__box">
-                            <img src="assets/welcome/common/img/mobile.gif" class="cwt__showcase__box__gif" />
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Promo Block -->
-            <div class="cwt__block cwt__promo hidden-md-down">
-                <div class="cwt__promo__images cwt__promo__images--showed">
-                    <a href="javascript: void(0);" class="cwt__promo__images__img cwt__promo__images__img--1">
-                        <img src="assets/welcome/common/img/screens/promo_1.jpg" alt="">
-                        <span class="btn btn-primary">Click for Live Preview</span>
-                    </a>
-                    <a href="javascript: void(0);" class="cwt__promo__images__img cwt__promo__images__img--2">
-                        <img src="assets/welcome/common/img/screens/promo_2.jpg" alt="">
-                        <span class="btn btn-primary">Click for Live Preview</span>
-                    </a>
-                    <a href="javascript: void(0);" class="cwt__promo__images__img cwt__promo__images__img--3">
-                        <img src="assets/welcome/common/img/screens/promo_3.jpg" alt="">
-                        <span class="btn btn-primary">Click for Live Preview</span>
-                    </a>
-                    <a href="javascript: void(0);" class="cwt__promo__images__img cwt__promo__images__img--4">
-                        <img src="assets/welcome/common/img/screens/promo_4.jpg" alt="">
-                        <span class="btn btn-primary">Click for Live Preview</span>
-                    </a>
-                    <a href="javascript: void(0);" class="cwt__promo__images__img cwt__promo__images__img--5">
-                        <img src="assets/welcome/common/img/screens/promo_5.jpg" alt="">
-                        <span class="btn btn-primary">Click for Live Preview</span>
-                    </a>
-                </div>
-            </div>
-
+        
+           
             <!-- Gallery Block -->
             <div class="cwt__block cwt__gallery">
-                <h1 class="cwt__block-title">
-                    Portfolio Preview
-                </h1>
+                
                 <div class="cwt__gallery__container">
-                    <div class="cwt__gallery__description">
-                        Lorem Ipsum is <strong>simply dummy text</strong> of the printing and <strong>typesetting industry</strong>. Lorem Ipsum has been the
-                        industry's <strong>standard dummy</strong> text ever since the 1500s, when an <strong>unknown printer</strong> took a galley of type
-                        and <strong>scrambled it</strong> to make a type specimen book.
-                    </div>
+                    
                     <div class="row">
                         <div class="col-md-4">
                             <a href="javascript: void(0);" class="cwt__gallery__item">
@@ -111,7 +51,7 @@
                                 <span class="btn btn-primary cwt__gallery__item__btn">Click for Live Preview</span>
                             </a>
                             <br />
-                            <a href="javascript: void(0);" class="cwt__gallery__item__title cwt__link-underlined">Vertical Menu (Default)</a>
+                            
                         </div>
                         <div class="col-md-4">
                             <a href="javascript: void(0);" class="cwt__gallery__item">
@@ -120,7 +60,7 @@
                                 <span class="btn btn-primary cwt__gallery__item__btn">Click for Live Preview</span>
                             </a>
                             <br />
-                            <a href="javascript: void(0);" class="cwt__gallery__item__title cwt__link-underlined">Super Clean Mode + Menu Shadow</a>
+                           
                         </div>
                         <div class="col-md-4">
                             <a href="javascript: void(0);" class="cwt__gallery__item">
@@ -129,7 +69,7 @@
                                 <span class="btn btn-primary cwt__gallery__item__btn">Click for Live Preview</span>
                             </a>
                             <br />
-                            <a href="javascript: void(0);" class="cwt__gallery__item__title cwt__link-underlined">Ecommerce Version</a>
+                           
                         </div>
                     </div>
                     <div class="row">
@@ -140,7 +80,7 @@
                                 <span class="btn btn-primary cwt__gallery__item__btn">Click for Live Preview</span>
                             </a>
                             <br />
-                            <a href="javascript: void(0);" class="cwt__gallery__item__title cwt__link-underlined">Horizontal Menu + Boxed</a>
+                           
                         </div>
                         <div class="col-md-4">
                             <div class="cwt__gallery__item cwt__gallery__item__placeholder">
@@ -177,7 +117,7 @@
             </div>
 
             <!-- Features Block -->
-            <div class="cwt__block cwt__features">
+            <!-- <div class="cwt__block cwt__features">
                 <h1 class="cwt__block-title">
                     Product Features
                 </h1>
@@ -185,7 +125,7 @@
                     <div class="row">
                         <div class="col-lg-4 col-md-6">
                             <div class="cwt__features__item">
-                                <i class="cwt__features__icon lnr lnr-diamond"><!-- --></i>
+                                <i class="cwt__features__icon lnr lnr-diamond"></i>
                                 <span class="cwt__features__title">
                                     6 Color Schemes
                                 </span>
@@ -196,7 +136,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="cwt__features__item">
-                                <i class="cwt__features__icon lnr lnr-leaf"><!-- --></i>
+                                <i class="cwt__features__icon lnr lnr-leaf"></i>
                                 <span class="cwt__features__title">
                                     Clean & Simple Code
                                 </span>
@@ -207,7 +147,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="cwt__features__item">
-                                <i class="cwt__features__icon lnr lnr-rocket"><!-- --></i>
+                                <i class="cwt__features__icon lnr lnr-rocket"></i>
                                 <span class="cwt__features__title">
                                     Easy Customizable
                                 </span>
@@ -218,7 +158,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="cwt__features__item">
-                                <i class="cwt__features__icon lnr lnr-thumbs-up"><!-- --></i>
+                                <i class="cwt__features__icon lnr lnr-thumbs-up"></i>
                                 <span class="cwt__features__title">
                                     Save $81
                                 </span>
@@ -229,7 +169,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="cwt__features__item">
-                                <i class="cwt__features__icon lnr lnr-magic-wand"><!-- --></i>
+                                <i class="cwt__features__icon lnr lnr-magic-wand"></i>
                                 <span class="cwt__features__title">
                                     Prebuilt App Pages
                                 </span>
@@ -240,7 +180,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="cwt__features__item">
-                                <i class="cwt__features__icon lnr lnr-bookmark"><!-- --></i>
+                                <i class="cwt__features__icon lnr lnr-bookmark"></i>
                                 <span class="cwt__features__title">
                                     AngularJS Version
                                 </span>
@@ -251,10 +191,10 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <!-- Action Block -->
-            <div class="cwt__block cwt__action">
+         <!--    <div class="cwt__block cwt__action">
                 <div class="cwt__action__container">
                     <div class="cwt__action__container-inner">
                         <a href="https://themeforest.net/item/clean-ui-admin-template-react-redux-ant-design-fully-responsive-freebies/21938700?ref=mediatec_software" class="btn btn-primary cwt__action__button">
@@ -262,10 +202,10 @@
                         </a>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <!-- Feedback Block -->
-            <div class="cwt__block cwt__feedback">
+            <!-- <div class="cwt__block cwt__feedback">
                 <h1 class="cwt__block-title">
                     Our Customers Say
                 </h1>
@@ -312,10 +252,10 @@
                         </span>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <!-- About Us -->
-            <div class="cwt__block cwt__about">
+           <!--  <div class="cwt__block cwt__about">
                 <h1 class="cwt__block-title">
                     About Us
                 </h1>
@@ -350,7 +290,7 @@
             </div>
 
         </div>
-    </div>
+    </div> -->
 
 <div class="container">
     <div class="row">
